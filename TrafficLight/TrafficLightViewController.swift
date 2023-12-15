@@ -9,6 +9,8 @@ import UIKit
 
 class TrafficLightViewController: UIViewController {
     !!!!!!!!!!!!!!!!
+    >>>>>>>>>>>>
+    <<<<<<<<<<<<
 private let trafficLight = TrafficLightView()
    private let activateButton = UIButton()
 
