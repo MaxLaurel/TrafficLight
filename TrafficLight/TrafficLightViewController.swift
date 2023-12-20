@@ -8,7 +8,7 @@ import SnapKit
 import UIKit
 
 class TrafficLightViewController: UIViewController {
-    TRAINEE COMMENTS!!!!!
+    TRAINEE COMMENTS!!!!!!!!
 private let trafficLight = TrafficLightView()
    private let activateButton = UIButton()
 
